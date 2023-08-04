@@ -1,1 +1,14 @@
+body {
+    font-size: 16px;
+    color: #fff;
+    background-color: #61122f;
+    font-family: 'Oxygen', sans-serif;
+  }
+  
+  /** HEADER **/
+#header-nav {
+    background-color: hsl(42, 90%, 55%);
+    border-radius: 0;
+    border: 0;
+  }
 
