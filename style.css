@@ -41,7 +41,7 @@ body {
     text-align: center;
     color: #000000;
     font-size: 50px;
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: "Oxygen", cursive, sans-serif;
     font-weight: bold;
   }
 
@@ -77,7 +77,7 @@ body {
     height: auto;
     color: black;
     background-color: rgba(0,0,0,0.2);
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: "Oxygen", cursive, sans-serif;
     padding: 20px;
   }
   
