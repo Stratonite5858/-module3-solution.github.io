@@ -3,7 +3,7 @@ body {
   color: #fff;
   background-color: #f3ebee;
   font-family: 'Oxygen', sans-serif;
-  padding-top: 70px; /* to prevent the content from being hidden behind the fixed navbar */
+  padding-top: 50px; /* to prevent the content from being hidden behind the fixed navbar */
 }
 
 /** HEADER **/
